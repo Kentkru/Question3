@@ -1,0 +1,12 @@
+.search_country {
+    text-align: center;
+    padding: 20px;
+}
+.search_country input {
+    width: 50%;
+    height: 30px;
+}
+.search_country button {
+    display: block;
+    margin: 15px auto;
+}
